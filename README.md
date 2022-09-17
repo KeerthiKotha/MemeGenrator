@@ -1,1 +1,1 @@
-# MemeGenrator
+# MemeGenerator
